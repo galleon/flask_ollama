@@ -1,0 +1,10 @@
+Flask
+chromadb
+flask_cors
+llama-index-core
+llama-index-readers-file
+llama-index-llms-ollama
+llama-index-embeddings-huggingface
+llama_index-vector_stores-chroma
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==2.2.0+cpu
